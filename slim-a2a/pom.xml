@@ -102,7 +102,7 @@
                 <artifactId>maven-javadoc-plugin</artifactId>
                 <version>3.6.3</version>
                 <configuration>
-                    <source>21</source>
+                    <source>26</source>
                     <doclint>none</doclint>
                     <failOnError>false</failOnError>
                     <additionalOptions>
